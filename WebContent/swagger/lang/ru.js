@@ -30,8 +30,6 @@ window.SwaggerTranslator.learn({
     "Model Schema":"Структура",
     "Model":"Описание",
     "apply":"применить",
-    "Username":"Имя пользователя",
-    "Password":"Пароль",
     "Terms of service":"Условия использования",
     "Created by":"Разработано",
     "See more at":"Еще тут",
