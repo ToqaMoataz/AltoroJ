@@ -30,6 +30,8 @@ window.SwaggerTranslator.learn({
     "Model Schema":"Esquema del Modelo",
     "Model":"Modelo",
     "apply":"aplicar",
+    "Username":"Nombre de usuario",
+    "Password":"Contraseña",
     "Terms of service":"Términos de Servicio",
     "Created by":"Creado por",
     "See more at":"Ver más en",
